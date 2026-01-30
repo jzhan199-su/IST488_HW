@@ -1,5 +1,5 @@
 import streamlit as st
-st.title('IST488Labs')
+st.title('IST488 Homework')
 tab1 = st.Page('HW/hw-1.py', title = 'Homework 1')
 tab2 = st.Page('HW/hw-2.py', title = 'Homework 2')
 
